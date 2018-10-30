@@ -1,0 +1,36 @@
+body {
+  background-color: paleturquoise;
+}
+div {
+  background-color: rgb(164, 119, 201);
+  margin: 10px;
+  width: 50%;
+}
+div {
+  border: solid 5px rgb(215, 250, 225);
+  padding: 10px;
+}
+h1 {
+  font-size: 50px;
+}
+h1,
+h3 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.combo1,
+.combo {
+  width: 15%;
+  height: 100px;
+  text-align: center;
+  border: solid 2px rgb(215, 250, 225);
+  padding: 10px;
+}
+.userTotal {
+  width: 15%;
+  height: 60px;
+}
+.gems {
+  clear: both;
+}
